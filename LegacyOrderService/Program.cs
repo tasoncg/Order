@@ -24,6 +24,8 @@ namespace LegacyOrderService
                {
                    services.AddSingleton<IOrderRepository, OrderRepository>();
                    services.AddSingleton<IProductRepository, ProductRepository>();
+                   services.AddHostedService<ConsoleInteractionService>();
+                   services.AddHostedService<OrderWorker>();
                })
                .ConfigureLogging(logging =>
                {
