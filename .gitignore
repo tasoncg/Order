@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LegacyOrderService/.vs
+/LegacyOrderService/bin/Debug/net8.0/LegacyOrderService.dll
+/LegacyOrderService/bin/Debug/net8.0/LegacyOrderService.exe
+/LegacyOrderService/bin/Debug/net8.0/LegacyOrderService.pdb
+/LegacyOrderService/bin/Debug/net8.0/orders.db
+/LegacyOrderService/obj/Debug/net8.0/ref/LegacyOrderService.dll
+/LegacyOrderService/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/LegacyOrderService/obj/Debug/net8.0/refint/LegacyOrderService.dll
+/LegacyOrderService/obj/LegacyOrderService.csproj.nuget.dgspec.json
+/LegacyOrderService/obj/project.assets.json
+/LegacyOrderService/obj/project.nuget.cache
+/LegacyOrderService/obj/Debug/net8.0/apphost.exe
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.AssemblyInfo.cs
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.AssemblyInfoInputs.cache
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.assets.cache
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.csproj.FileListAbsolute.txt
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.dll
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.GeneratedMSBuildEditorConfig.editorconfig
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.genruntimeconfig.cache
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.pdb
+/LegacyOrderService/obj/Debug/net8.0/LegacyOrderService.sourcelink.json
+/LegacyOrderService/LegacyOrderService.sln
